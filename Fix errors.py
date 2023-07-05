@@ -27,7 +27,7 @@ for item in items:
         print(f'Issue finding {single} by {artist}')
         continue
 
-with open('lyrics_dict.pickle', 'wb') as handle:
+with open('lyrics_dict2.pickle', 'wb') as handle:
     pickle.dump(lyrics_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
 print(len(lyrics_dict)) 
 print(issues)

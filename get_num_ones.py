@@ -42,12 +42,12 @@ for url in urls:
             if track is not None:
                 lyrics_dict[(single, artist)] = [track.lyrics, year] 
             else:
-                issues.append((single, artist))
-                print(f'Issue with {single} by {artist}')
+                issues.append((single, artist, year))
+                print(f'Issue with {single} by {artist} in {year}')
                 continue
         except:
-            issues.append((single, artist))
-            print(f'Issue finding {single} by {artist}')
+            issues.append((single, artist, year))
+            print(f'Issue finding {single} by {artist} in {year}')
             continue
         counter += 1
     with open('lyrics_dict.pickle', 'wb') as handle:
@@ -84,14 +84,17 @@ for index, row in artist_title.iterrows():
         if track is not None:
             lyrics_dict[(single, artist)] = [track.lyrics, year] 
         else:
-            issues.append((single, artist))
-            print(f'Issue with {single} by {artist}')
+            issues.append((single, artist, year))
+            print(f'Issue with {single} by {artist} in {year}')
             continue
     except:
-        issues.append((single, artist))
-        print(f'Issue finding {single} by {artist}')
+        issues.append((single, artist, year))
+        print(f'Issue finding {single} by {artist} in {year}')
         continue
     counter += 1
 with open('lyrics_dict.pickle', 'wb') as handle:
     pickle.dump(lyrics_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
+with open('issues.txt', "w") as issues_file:
+    for issue in issues:
+        issues_file.write(f'{issue[0]} by {issue[1]} in {issue[2]}\n')
 print(len(lyrics_dict)) 
