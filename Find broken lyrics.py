@@ -4,7 +4,8 @@ import pickle
 with open('final_lyrics_dump.pickle', 'rb') as handle:
     items = pickle.load(handle)
 
-_index = 15
+_index = 402
+
 
 to_fix = items[_index]
 print(to_fix['Song title'])
