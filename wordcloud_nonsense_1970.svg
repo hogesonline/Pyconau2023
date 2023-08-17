@@ -1,195 +1,142 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
 <style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
 <rect width="100%" height="100%" style="fill:white"></rect>
-<text transform="translate(189,65)" font-size="94" style="fill:rgb(82, 197, 105)">ron</text>
-<text transform="translate(115,189) rotate(-90)" font-size="89" style="fill:rgb(41, 175, 127)">doo</text>
-<text transform="translate(120,113)" font-size="83" style="fill:rgb(51, 99, 141)">wanna</text>
-<text transform="translate(144,165)" font-size="64" style="fill:rgb(103, 204, 92)">youve</text>
-<text transform="translate(253,198)" font-size="42" style="fill:rgb(51, 98, 141)">lovin</text>
-<text transform="translate(16,32)" font-size="41" style="fill:rgb(119, 209, 83)">feelin</text>
-<text transform="translate(34,163) rotate(-90)" font-size="40" style="fill:rgb(34, 140, 141)">lucy</text>
-<text transform="translate(133,198)" font-size="24" style="fill:rgb(72, 35, 116)">american</text>
-<text transform="translate(129,52)" font-size="23" style="fill:rgb(51, 99, 141)">muzik</text>
-<text transform="translate(386,151) rotate(-90)" font-size="22" style="fill:rgb(72, 20, 103)">bennie</text>
-<text transform="translate(286,125)" font-size="22" style="fill:rgb(42, 118, 142)">oo</text>
-<text transform="translate(1,191)" font-size="22" style="fill:rgb(231, 228, 25)">angie</text>
-<text transform="translate(359,52)" font-size="22" style="fill:rgb(64, 69, 136)">hmm</text>
-<text transform="translate(136,168) rotate(-90)" font-size="21" style="fill:rgb(168, 219, 52)">hoo</text>
-<text transform="translate(2,51)" font-size="21" style="fill:rgb(37, 171, 130)">ohh</text>
-<text transform="translate(214,124)" font-size="14" style="fill:rgb(72, 22, 104)">saturday</text>
-<text transform="translate(215,61)" font-size="14" style="fill:rgb(39, 127, 142)">mr</text>
-<text transform="translate(176,177)" font-size="13" style="fill:rgb(52, 96, 141)">talkin</text>
-<text transform="translate(348,162)" font-size="13" style="fill:rgb(96, 202, 96)">theyre</text>
-<text transform="translate(226,11)" font-size="13" style="fill:rgb(63, 72, 137)">mmm</text>
-<text transform="translate(350,16)" font-size="13" style="fill:rgb(55, 90, 140)">stayin</text>
-<text transform="translate(169,13)" font-size="13" style="fill:rgb(72, 20, 103)">burnin</text>
-<text transform="translate(69,196)" font-size="13" style="fill:rgb(72, 22, 104)">fallin</text>
-<text transform="translate(291,13)" font-size="13" style="fill:rgb(71, 47, 125)">buh</text>
-<text transform="translate(59,88) rotate(-90)" font-size="13" style="fill:rgb(30, 156, 137)">youd</text>
-<text transform="translate(392,198) rotate(-90)" font-size="13" style="fill:rgb(70, 10, 93)">lala</text>
-<text transform="translate(39,136)" font-size="13" style="fill:rgb(96, 202, 96)">raz</text>
-<text transform="translate(132,124)" font-size="13" style="fill:rgb(46, 109, 142)">ferguson</text>
-<text transform="translate(123,66)" font-size="13" style="fill:rgb(32, 146, 140)">ahh</text>
-<text transform="translate(315,124)" font-size="13" style="fill:rgb(46, 109, 142)">truckin</text>
-<text transform="translate(152,63)" font-size="13" style="fill:rgb(231, 228, 25)">rockn</text>
-<text transform="translate(13,171)" font-size="13" style="fill:rgb(72, 41, 121)">lookin</text>
-<text transform="translate(41,42)" font-size="13" style="fill:rgb(105, 205, 91)">hm</text>
-<text transform="translate(396,134) rotate(-90)" font-size="13" style="fill:rgb(67, 62, 133)">dancin</text>
-<text transform="translate(353,63)" font-size="12" style="fill:rgb(63, 188, 115)">gitchi</text>
-<text transform="translate(213,39)" font-size="11" style="fill:rgb(144, 215, 67)">oooh</text>
-<text transform="translate(358,28)" font-size="11" style="fill:rgb(56, 88, 140)">yall</text>
-<text transform="translate(65,139)" font-size="11" style="fill:rgb(122, 209, 81)">ohhohoho</text>
-<text transform="translate(2,66)" font-size="11" style="fill:rgb(66, 190, 113)">doesnt</text>
-<text transform="translate(225,180)" font-size="11" style="fill:rgb(32, 163, 134)">tryin</text>
-<text transform="translate(330,135)" font-size="11" style="fill:rgb(66, 63, 133)">singin</text>
-<text transform="translate(250,10)" font-size="7" style="fill:rgb(117, 208, 84)">hallelujah</text>
-<text transform="translate(75,55)" font-size="7" style="fill:rgb(208, 225, 28)">doin</text>
-<text transform="translate(64,84)" font-size="7" style="fill:rgb(68, 1, 84)">breakin</text>
-<text transform="translate(321,10)" font-size="7" style="fill:rgb(31, 158, 137)">oogie</text>
-<text transform="translate(367,37)" font-size="7" style="fill:rgb(134, 213, 73)">sharona</text>
-<text transform="translate(330,43) rotate(-90)" font-size="7" style="fill:rgb(51, 99, 141)">uhhuh</text>
-<text transform="translate(268,171)" font-size="7" style="fill:rgb(184, 222, 41)">everybodys</text>
-<text transform="translate(369,70)" font-size="7" style="fill:rgb(63, 71, 136)">wouldnt</text>
-<text transform="translate(164,30)" font-size="7" style="fill:rgb(69, 4, 87)">jones</text>
-<text transform="translate(41,7)" font-size="7" style="fill:rgb(74, 193, 109)">lalalalalaa</text>
-<text transform="translate(167,19)" font-size="7" style="fill:rgb(31, 159, 136)">gettin</text>
-<text transform="translate(322,112) rotate(-90)" font-size="7" style="fill:rgb(71, 16, 99)">voulezvous</text>
-<text transform="translate(123,36)" font-size="7" style="fill:rgb(66, 65, 134)">avec</text>
-<text transform="translate(1,33)" font-size="7" style="fill:rgb(34, 167, 133)">moi</text>
-<text transform="translate(14,197)" font-size="7" style="fill:rgb(54, 93, 141)">ona</text>
-<text transform="translate(222,109) rotate(-90)" font-size="7" style="fill:rgb(127, 211, 78)">falettinme</text>
-<text transform="translate(342,148)" font-size="7" style="fill:rgb(152, 216, 62)">mornin</text>
-<text transform="translate(211,49)" font-size="7" style="fill:rgb(149, 216, 64)">somethin</text>
-<text transform="translate(39,103)" font-size="7" style="fill:rgb(37, 132, 142)">theyd</text>
-<text transform="translate(36,113)" font-size="7" style="fill:rgb(200, 224, 32)">georgia</text>
-<text transform="translate(261,41)" font-size="7" style="fill:rgb(45, 112, 142)">leavin</text>
-<text transform="translate(8,123) rotate(-90)" font-size="7" style="fill:rgb(241, 229, 29)">ssssaturday</text>
-<text transform="translate(119,183)" font-size="7" style="fill:rgb(43, 116, 142)">livin</text>
-<text transform="translate(107,7)" font-size="7" style="fill:rgb(117, 208, 84)">whos</text>
-<text transform="translate(74,112)" font-size="7" style="fill:rgb(31, 149, 139)">thisll</text>
-<text transform="translate(333,63) rotate(-90)" font-size="7" style="fill:rgb(36, 134, 142)">ethel</text>
-<text transform="translate(55,125)" font-size="7" style="fill:rgb(55, 184, 120)">c</text>
-<text transform="translate(295,110) rotate(-90)" font-size="7" style="fill:rgb(38, 173, 129)">gimme</text>
-<text transform="translate(227,62)" font-size="7" style="fill:rgb(37, 133, 142)">aaah</text>
-<text transform="translate(181,83)" font-size="7" style="fill:rgb(165, 219, 54)">dudu</text>
-<text transform="translate(346,171)" font-size="7" style="fill:rgb(39, 173, 129)">chicago</text>
-<text transform="translate(309,155)" font-size="7" style="fill:rgb(45, 113, 142)">halfbreed</text>
-<text transform="translate(3,146)" font-size="7" style="fill:rgb(45, 113, 142)">dooron</text>
-<text transform="translate(51,94)" font-size="7" style="fill:rgb(124, 210, 80)">di</text>
-<text transform="translate(77,168)" font-size="7" style="fill:rgb(49, 102, 142)">darlin</text>
-<text transform="translate(266,82)" font-size="7" style="fill:rgb(205, 225, 29)">b</text>
-<text transform="translate(37,157)" font-size="7" style="fill:rgb(200, 224, 32)">byebye</text>
-<text transform="translate(140,7)" font-size="7" style="fill:rgb(162, 218, 55)">krishna</text>
-<text transform="translate(303,50) rotate(-90)" font-size="7" style="fill:rgb(110, 206, 88)">lalalala</text>
-<text transform="translate(98,84)" font-size="7" style="fill:rgb(30, 157, 137)">leroy</text>
-<text transform="translate(80,63)" font-size="7" style="fill:rgb(51, 99, 141)">comin</text>
-<text transform="translate(143,164) rotate(-90)" font-size="7" style="fill:rgb(71, 16, 99)">soundbite</text>
-<text transform="translate(40,197)" font-size="7" style="fill:rgb(51, 98, 141)">evenin</text>
-<text transform="translate(198,150)" font-size="7" style="fill:rgb(65, 66, 135)">ol</text>
-<text transform="translate(323,83)" font-size="7" style="fill:rgb(115, 208, 86)">holdin</text>
-<text transform="translate(262,49)" font-size="7" style="fill:rgb(72, 28, 110)">mandy</text>
-<text transform="translate(12,57)" font-size="7" style="fill:rgb(30, 155, 138)">looove</text>
-<text transform="translate(1,21)" font-size="7" style="fill:rgb(69, 55, 129)">makin</text>
-<text transform="translate(118,171)" font-size="7" style="fill:rgb(41, 121, 142)">mcgee</text>
-<text transform="translate(248,105) rotate(-90)" font-size="7" style="fill:rgb(70, 8, 92)">havent</text>
-<text transform="translate(115,127)" font-size="7" style="fill:rgb(72, 37, 118)">hmmm</text>
-<text transform="translate(184,26)" font-size="7" style="fill:rgb(30, 156, 137)">heh</text>
-<text transform="translate(39,49)" font-size="7" style="fill:rgb(71, 14, 97)">dylan</text>
-<text transform="translate(112,26)" font-size="7" style="fill:rgb(147, 215, 65)">dum</text>
-<text transform="translate(270,108) rotate(-90)" font-size="7" style="fill:rgb(49, 104, 142)">cryin</text>
-<text transform="translate(242,156) rotate(-90)" font-size="7" style="fill:rgb(94, 201, 98)">cherokee</text>
-<text transform="translate(120,103) rotate(-90)" font-size="7" style="fill:rgb(127, 211, 78)">cmon</text>
-<text transform="translate(35,122)" font-size="7" style="fill:rgb(72, 27, 109)">andy</text>
-<text transform="translate(79,157)" font-size="7" style="fill:rgb(71, 17, 100)">wowo</text>
-<text transform="translate(247,43) rotate(-90)" font-size="7" style="fill:rgb(72, 27, 109)">believin</text>
-<text transform="translate(1,176)" font-size="6" style="fill:rgb(47, 180, 124)">ohohohoh</text>
-<text transform="translate(91,15)" font-size="6" style="fill:rgb(33, 166, 133)">ce</text>
-<text transform="translate(331,161)" font-size="6" style="fill:rgb(64, 70, 136)">soir</text>
-<text transform="translate(169,182)" font-size="6" style="fill:rgb(37, 133, 142)">wantin</text>
-<text transform="translate(222,167) rotate(-90)" font-size="6" style="fill:rgb(122, 209, 81)">hoohoohoo</text>
-<text transform="translate(41,75)" font-size="6" style="fill:rgb(43, 117, 142)">le</text>
-<text transform="translate(302,111) rotate(-90)" font-size="6" style="fill:rgb(96, 202, 96)">ooohahah</text>
-<text transform="translate(315,170)" font-size="6" style="fill:rgb(38, 129, 142)">mmmmy</text>
-<text transform="translate(237,112)" font-size="6" style="fill:rgb(184, 222, 41)">uhuh</text>
-<text transform="translate(2,129)" font-size="6" style="fill:rgb(44, 114, 142)">waitin</text>
-<text transform="translate(246,192)" font-size="6" style="fill:rgb(184, 222, 41)">hed</text>
-<text transform="translate(397,196) rotate(-90)" font-size="6" style="fill:rgb(35, 138, 141)">drinkin</text>
-<text transform="translate(207,128)" font-size="5" style="fill:rgb(67, 61, 132)">searchin</text>
-<text transform="translate(258,161) rotate(-90)" font-size="5" style="fill:rgb(216, 226, 25)">givin</text>
-<text transform="translate(214,30)" font-size="5" style="fill:rgb(32, 163, 134)">hmmmmm</text>
-<text transform="translate(166,128)" font-size="5" style="fill:rgb(51, 98, 141)">dixieland</text>
-<text transform="translate(140,168)" font-size="5" style="fill:rgb(31, 161, 135)">ahha</text>
-<text transform="translate(154,31) rotate(-90)" font-size="5" style="fill:rgb(31, 148, 140)">kirby</text>
-<text transform="translate(171,158)" font-size="5" style="fill:rgb(60, 80, 139)">cest</text>
-<text transform="translate(231,170)" font-size="5" style="fill:rgb(59, 82, 139)">venus</text>
-<text transform="translate(200,182)" font-size="4" style="fill:rgb(31, 153, 138)">mississippi</text>
-<text transform="translate(170,35)" font-size="4" style="fill:rgb(147, 215, 65)">n</text>
-<text transform="translate(81,103)" font-size="4" style="fill:rgb(39, 126, 142)">indian</text>
-<text transform="translate(78,117)" font-size="4" style="fill:rgb(72, 23, 105)">maggie</text>
-<text transform="translate(285,128)" font-size="4" style="fill:rgb(43, 116, 142)">werent</text>
-<text transform="translate(121,187)" font-size="4" style="fill:rgb(200, 224, 32)">susie</text>
-<text transform="translate(384,22)" font-size="4" style="fill:rgb(186, 222, 40)">friday</text>
-<text transform="translate(24,89)" font-size="4" style="fill:rgb(149, 216, 64)">baddest</text>
-<text transform="translate(268,32)" font-size="4" style="fill:rgb(31, 159, 136)">badder</text>
-<text transform="translate(268,182)" font-size="4" style="fill:rgb(168, 219, 52)">kong</text>
-<text transform="translate(142,36)" font-size="4" style="fill:rgb(82, 197, 105)">loveydovey</text>
-<text transform="translate(43,151) rotate(-90)" font-size="4" style="fill:rgb(65, 68, 135)">walkin</text>
-<text transform="translate(211,65)" font-size="4" style="fill:rgb(44, 113, 142)">nanana</text>
-<text transform="translate(18,30) rotate(-90)" font-size="4" style="fill:rgb(72, 38, 119)">mmh</text>
-<text transform="translate(340,99)" font-size="4" style="fill:rgb(72, 20, 103)">kung</text>
-<text transform="translate(60,121)" font-size="4" style="fill:rgb(70, 50, 126)">fu</text>
-<text transform="translate(11,158)" font-size="4" style="fill:rgb(33, 142, 141)">doronron</text>
-<text transform="translate(338,58) rotate(-90)" font-size="4" style="fill:rgb(55, 91, 141)">rollercoaster</text>
-<text transform="translate(181,193)" font-size="4" style="fill:rgb(181, 222, 43)">steve</text>
-<text transform="translate(322,68) rotate(-90)" font-size="4" style="fill:rgb(112, 207, 87)">dingdongding</text>
-<text transform="translate(63,74) rotate(-90)" font-size="4" style="fill:rgb(56, 88, 140)">shoobiedoobiedoowop</text>
-<text transform="translate(3,7)" font-size="4" style="fill:rgb(51, 99, 141)">shoowop</text>
-<text transform="translate(62,31)" font-size="4" style="fill:rgb(53, 94, 141)">ima</text>
-<text transform="translate(196,122)" font-size="4" style="fill:rgb(65, 68, 135)">cracklin</text>
-<text transform="translate(368,5)" font-size="4" style="fill:rgb(42, 176, 127)">rosie</text>
-<text transform="translate(117,195)" font-size="4" style="fill:rgb(70, 51, 127)">therell</text>
-<text transform="translate(187,101)" font-size="4" style="fill:rgb(221, 227, 24)">albert</text>
-<text transform="translate(287,154)" font-size="4" style="fill:rgb(47, 180, 124)">lyin</text>
-<text transform="translate(52,175)" font-size="4" style="fill:rgb(165, 219, 54)">callin</text>
-<text transform="translate(45,54)" font-size="4" style="fill:rgb(31, 160, 136)">laa</text>
-<text transform="translate(248,128)" font-size="4" style="fill:rgb(31, 153, 138)">oohoohooh</text>
-<text transform="translate(172,112) rotate(-90)" font-size="4" style="fill:rgb(200, 224, 32)">ameeting</text>
-<text transform="translate(127,57) rotate(-90)" font-size="4" style="fill:rgb(47, 180, 124)">bbbbennie</text>
-<text transform="translate(330,139)" font-size="4" style="fill:rgb(244, 230, 30)">creepin</text>
-<text transform="translate(139,27) rotate(-90)" font-size="4" style="fill:rgb(71, 46, 124)">nnnnothin</text>
-<text transform="translate(198,63) rotate(-90)" font-size="4" style="fill:rgb(205, 225, 29)">kinda</text>
-<text transform="translate(295,61)" font-size="4" style="fill:rgb(58, 186, 118)">whoo</text>
-<text transform="translate(341,5)" font-size="4" style="fill:rgb(84, 197, 104)">shinin</text>
-<text transform="translate(363,108)" font-size="4" style="fill:rgb(72, 36, 117)">york</text>
-<text transform="translate(358,139)" font-size="4" style="fill:rgb(72, 28, 110)">ahahah</text>
-<text transform="translate(269,135)" font-size="4" style="fill:rgb(70, 192, 111)">coladas</text>
-<text transform="translate(116,117)" font-size="4" style="fill:rgb(71, 46, 124)">orleans</text>
-<text transform="translate(4,12)" font-size="4" style="fill:rgb(44, 114, 142)">shakin</text>
-<text transform="translate(106,17)" font-size="4" style="fill:rgb(31, 149, 139)">doremi</text>
-<text transform="translate(172,164)" font-size="4" style="fill:rgb(71, 45, 123)">nyah</text>
-<text transform="translate(37,137) rotate(-90)" font-size="4" style="fill:rgb(31, 159, 136)">awwww</text>
-<text transform="translate(386,149)" font-size="4" style="fill:rgb(36, 135, 142)">aaaah</text>
-<text transform="translate(243,184)" font-size="4" style="fill:rgb(33, 143, 141)">gurur</text>
-<text transform="translate(325,186)" font-size="4" style="fill:rgb(72, 26, 108)">wohoh</text>
-<text transform="translate(87,48)" font-size="4" style="fill:rgb(55, 90, 140)">gypsys</text>
-<text transform="translate(36,37) rotate(-90)" font-size="4" style="fill:rgb(253, 231, 37)">makebelieve</text>
-<text transform="translate(343,177)" font-size="4" style="fill:rgb(61, 78, 138)">toker</text>
-<text transform="translate(285,162)" font-size="4" style="fill:rgb(253, 231, 37)">wooooh</text>
-<text transform="translate(231,53)" font-size="4" style="fill:rgb(35, 169, 131)">oogachaka</text>
-<text transform="translate(210,42)" font-size="4" style="fill:rgb(33, 142, 141)">oogaooga</text>
-<text transform="translate(184,31)" font-size="4" style="fill:rgb(72, 29, 111)">standin</text>
-<text transform="translate(174,92) rotate(-90)" font-size="4" style="fill:rgb(51, 98, 141)">ahaaaaaah</text>
-<text transform="translate(366,93) rotate(-90)" font-size="4" style="fill:rgb(189, 223, 38)">springtime</text>
-<text transform="translate(48,94) rotate(-90)" font-size="4" style="fill:rgb(38, 130, 142)">watchin</text>
-<text transform="translate(390,137)" font-size="4" style="fill:rgb(31, 153, 138)">usa</text>
-<text transform="translate(164,147) rotate(-90)" font-size="4" style="fill:rgb(68, 57, 131)">chocolata</text>
-<text transform="translate(325,193)" font-size="4" style="fill:rgb(68, 1, 84)">te</text>
-<text transform="translate(86,8)" font-size="4" style="fill:rgb(38, 130, 142)">dooroo</text>
-<text transform="translate(120,62) rotate(-90)" font-size="4" style="fill:rgb(40, 174, 128)">ohohohohohoh</text>
-<text transform="translate(379,197) rotate(-90)" font-size="4" style="fill:rgb(213, 226, 26)">groovin</text>
-<text transform="translate(44,139)" font-size="4" style="fill:rgb(40, 125, 142)">stan</text>
-<text transform="translate(100,110)" font-size="4" style="fill:rgb(35, 136, 142)">roy</text>
-<text transform="translate(250,169)" font-size="4" style="fill:rgb(112, 207, 87)">gus</text>
-<text transform="translate(146,114) rotate(-90)" font-size="4" style="fill:rgb(70, 51, 127)">lovemakin</text>
-<text transform="translate(355,46) rotate(-90)" font-size="4" style="fill:rgb(40, 125, 142)">earthquakin</text>
+<text transform="translate(17,152)" font-size="141" style="fill:rgb(41, 121, 142)">ron</text>
+<text transform="translate(109,72)" font-size="94" style="fill:rgb(71, 44, 122)">doo</text>
+<text transform="translate(112,197)" font-size="81" style="fill:rgb(44, 114, 142)">wanna</text>
+<text transform="translate(383,198) rotate(-90)" font-size="62" style="fill:rgb(31, 152, 139)">youve</text>
+<text transform="translate(1,52)" font-size="37" style="fill:rgb(68, 2, 86)">lovin</text>
+<text transform="translate(301,137) rotate(-90)" font-size="36" style="fill:rgb(49, 104, 142)">feelin</text>
+<text transform="translate(19,185)" font-size="35" style="fill:rgb(33, 166, 133)">lucy</text>
+<text transform="translate(2,22)" font-size="25" style="fill:rgb(32, 146, 140)">american</text>
+<text transform="translate(35,73)" font-size="24" style="fill:rgb(50, 100, 142)">muzik</text>
+<text transform="translate(169,19)" font-size="23" style="fill:rgb(52, 182, 121)">bennie</text>
+<text transform="translate(63,155)" font-size="23" style="fill:rgb(53, 183, 121)">oo</text>
+<text transform="translate(336,133) rotate(-90)" font-size="23" style="fill:rgb(112, 207, 87)">angie</text>
+<text transform="translate(62,119)" font-size="23" style="fill:rgb(205, 225, 29)">hmm</text>
+<text transform="translate(57,139)" font-size="22" style="fill:rgb(70, 192, 111)">hoo</text>
+<text transform="translate(18,142) rotate(-90)" font-size="22" style="fill:rgb(64, 70, 136)">ohh</text>
+<text transform="translate(268,147)" font-size="15" style="fill:rgb(31, 153, 138)">saturday</text>
+<text transform="translate(261,14)" font-size="15" style="fill:rgb(38, 130, 142)">mr</text>
+<text transform="translate(237,148) rotate(-90)" font-size="14" style="fill:rgb(30, 155, 138)">talkin</text>
+<text transform="translate(301,13)" font-size="14" style="fill:rgb(60, 80, 139)">theyre</text>
+<text transform="translate(30,82) rotate(-90)" font-size="14" style="fill:rgb(99, 203, 95)">mmm</text>
+<text transform="translate(395,129) rotate(-90)" font-size="14" style="fill:rgb(70, 7, 90)">stayin</text>
+<text transform="translate(17,197)" font-size="14" style="fill:rgb(60, 79, 138)">burnin</text>
+<text transform="translate(312,81) rotate(-90)" font-size="14" style="fill:rgb(41, 123, 142)">fallin</text>
+<text transform="translate(68,102)" font-size="14" style="fill:rgb(49, 181, 123)">buh</text>
+<text transform="translate(312,29)" font-size="14" style="fill:rgb(71, 44, 122)">youd</text>
+<text transform="translate(315,58)" font-size="14" style="fill:rgb(40, 125, 142)">lala</text>
+<text transform="translate(123,16)" font-size="14" style="fill:rgb(52, 97, 141)">raz</text>
+<text transform="translate(191,150) rotate(-90)" font-size="14" style="fill:rgb(152, 216, 62)">ferguson</text>
+<text transform="translate(368,57)" font-size="14" style="fill:rgb(60, 79, 138)">ahh</text>
+<text transform="translate(29,151) rotate(-90)" font-size="14" style="fill:rgb(92, 200, 99)">truckin</text>
+<text transform="translate(351,14)" font-size="14" style="fill:rgb(34, 168, 132)">rockn</text>
+<text transform="translate(14,197) rotate(-90)" font-size="14" style="fill:rgb(54, 93, 141)">lookin</text>
+<text transform="translate(137,123)" font-size="14" style="fill:rgb(71, 45, 123)">hm</text>
+<text transform="translate(17,100) rotate(-90)" font-size="14" style="fill:rgb(70, 52, 128)">dancin</text>
+<text transform="translate(312,131) rotate(-90)" font-size="14" style="fill:rgb(35, 169, 131)">gitchi</text>
+<text transform="translate(313,42)" font-size="13" style="fill:rgb(72, 27, 109)">oooh</text>
+<text transform="translate(127,106)" font-size="13" style="fill:rgb(216, 226, 25)">yall</text>
+<text transform="translate(272,134) rotate(-90)" font-size="13" style="fill:rgb(132, 212, 75)">ohhohoho</text>
+<text transform="translate(224,152) rotate(-90)" font-size="13" style="fill:rgb(38, 130, 142)">doesnt</text>
+<text transform="translate(395,174) rotate(-90)" font-size="13" style="fill:rgb(70, 11, 94)">tryin</text>
+<text transform="translate(60,162)" font-size="10" style="fill:rgb(66, 64, 134)">singin</text>
+<text transform="translate(166,72) rotate(-90)" font-size="10" style="fill:rgb(213, 226, 26)">hallelujah</text>
+<text transform="translate(133,135)" font-size="10" style="fill:rgb(101, 203, 94)">doin</text>
+<text transform="translate(29,30)" font-size="10" style="fill:rgb(56, 89, 140)">breakin</text>
+<text transform="translate(342,109)" font-size="10" style="fill:rgb(42, 119, 142)">oogie</text>
+<text transform="translate(244,135) rotate(-90)" font-size="10" style="fill:rgb(70, 10, 93)">sharona</text>
+<text transform="translate(90,80)" font-size="10" style="fill:rgb(36, 170, 131)">uhhuh</text>
+<text transform="translate(84,26)" font-size="5" style="fill:rgb(194, 223, 35)">everybodys</text>
+<text transform="translate(317,167)" font-size="5" style="fill:rgb(44, 113, 142)">wouldnt</text>
+<text transform="translate(184,53)" font-size="5" style="fill:rgb(44, 113, 142)">jones</text>
+<text transform="translate(35,57)" font-size="5" style="fill:rgb(52, 97, 141)">lalalalalaa</text>
+<text transform="translate(273,179)" font-size="5" style="fill:rgb(66, 65, 134)">gettin</text>
+<text transform="translate(106,191) rotate(-90)" font-size="5" style="fill:rgb(70, 48, 126)">voulezvous</text>
+<text transform="translate(249,45) rotate(-90)" font-size="5" style="fill:rgb(221, 227, 24)">avec</text>
+<text transform="translate(16,166)" font-size="5" style="fill:rgb(205, 225, 29)">moi</text>
+<text transform="translate(242,52)" font-size="5" style="fill:rgb(132, 212, 75)">ona</text>
+<text transform="translate(238,194) rotate(-90)" font-size="5" style="fill:rgb(70, 50, 126)">falettinme</text>
+<text transform="translate(223,40) rotate(-90)" font-size="5" style="fill:rgb(162, 218, 55)">mornin</text>
+<text transform="translate(358,162)" font-size="5" style="fill:rgb(52, 96, 141)">somethin</text>
+<text transform="translate(36,159)" font-size="5" style="fill:rgb(96, 202, 96)">theyd</text>
+<text transform="translate(271,29)" font-size="5" style="fill:rgb(31, 161, 136)">georgia</text>
+<text transform="translate(70,123)" font-size="5" style="fill:rgb(63, 72, 137)">leavin</text>
+<text transform="translate(20,5)" font-size="5" style="fill:rgb(68, 1, 84)">ssssaturday</text>
+<text transform="translate(212,73)" font-size="5" style="fill:rgb(60, 79, 138)">livin</text>
+<text transform="translate(320,103) rotate(-90)" font-size="5" style="fill:rgb(70, 10, 93)">whos</text>
+<text transform="translate(92,90)" font-size="5" style="fill:rgb(94, 201, 98)">thisll</text>
+<text transform="translate(357,124)" font-size="5" style="fill:rgb(41, 123, 142)">ethel</text>
+<text transform="translate(344,40)" font-size="5" style="fill:rgb(213, 226, 26)">c</text>
+<text transform="translate(338,126)" font-size="5" style="fill:rgb(66, 190, 113)">gimme</text>
+<text transform="translate(346,152) rotate(-90)" font-size="5" style="fill:rgb(31, 160, 136)">aaah</text>
+<text transform="translate(343,70) rotate(-90)" font-size="5" style="fill:rgb(32, 147, 140)">dudu</text>
+<text transform="translate(93,145)" font-size="5" style="fill:rgb(58, 186, 118)">chicago</text>
+<text transform="translate(95,6)" font-size="5" style="fill:rgb(229, 228, 25)">halfbreed</text>
+<text transform="translate(94,197)" font-size="5" style="fill:rgb(86, 198, 103)">dooron</text>
+<text transform="translate(109,70)" font-size="5" style="fill:rgb(78, 195, 107)">di</text>
+<text transform="translate(174,81)" font-size="5" style="fill:rgb(31, 150, 139)">darlin</text>
+<text transform="translate(98,160)" font-size="5" style="fill:rgb(51, 99, 141)">b</text>
+<text transform="translate(366,87)" font-size="5" style="fill:rgb(55, 91, 141)">byebye</text>
+<text transform="translate(261,182) rotate(-90)" font-size="5" style="fill:rgb(65, 66, 135)">krishna</text>
+<text transform="translate(361,195)" font-size="5" style="fill:rgb(41, 123, 142)">lalalala</text>
+<text transform="translate(98,56)" font-size="5" style="fill:rgb(59, 187, 117)">leroy</text>
+<text transform="translate(281,55)" font-size="5" style="fill:rgb(142, 214, 69)">comin</text>
+<text transform="translate(95,151)" font-size="5" style="fill:rgb(62, 74, 137)">soundbite</text>
+<text transform="translate(287,17)" font-size="5" style="fill:rgb(229, 228, 25)">evenin</text>
+<text transform="translate(127,119)" font-size="5" style="fill:rgb(38, 130, 142)">ol</text>
+<text transform="translate(127,54)" font-size="5" style="fill:rgb(63, 71, 136)">holdin</text>
+<text transform="translate(135,92)" font-size="5" style="fill:rgb(69, 4, 87)">mandy</text>
+<text transform="translate(239,58)" font-size="5" style="fill:rgb(36, 170, 131)">looove</text>
+<text transform="translate(397,72) rotate(-90)" font-size="5" style="fill:rgb(34, 139, 141)">makin</text>
+<text transform="translate(275,192)" font-size="5" style="fill:rgb(54, 92, 141)">mcgee</text>
+<text transform="translate(128,42)" font-size="5" style="fill:rgb(234, 229, 26)">havent</text>
+<text transform="translate(321,136)" font-size="5" style="fill:rgb(31, 149, 139)">hmmm</text>
+<text transform="translate(202,163)" font-size="5" style="fill:rgb(63, 188, 115)">heh</text>
+<text transform="translate(277,67)" font-size="5" style="fill:rgb(45, 112, 142)">dylan</text>
+<text transform="translate(350,70)" font-size="5" style="fill:rgb(63, 188, 115)">dum</text>
+<text transform="translate(307,190) rotate(-90)" font-size="5" style="fill:rgb(70, 11, 94)">cryin</text>
+<text transform="translate(293,136)" font-size="5" style="fill:rgb(31, 162, 135)">cherokee</text>
+<text transform="translate(336,75)" font-size="5" style="fill:rgb(40, 124, 142)">cmon</text>
+<text transform="translate(54,149) rotate(-90)" font-size="5" style="fill:rgb(213, 226, 26)">andy</text>
+<text transform="translate(222,93)" font-size="5" style="fill:rgb(65, 66, 135)">wowo</text>
+<text transform="translate(296,151)" font-size="5" style="fill:rgb(72, 41, 121)">believin</text>
+<text transform="translate(180,43)" font-size="5" style="fill:rgb(84, 197, 104)">ohohohoh</text>
+<text transform="translate(378,165)" font-size="5" style="fill:rgb(72, 36, 117)">ce</text>
+<text transform="translate(68,194)" font-size="5" style="fill:rgb(218, 227, 25)">soir</text>
+<text transform="translate(144,112)" font-size="5" style="fill:rgb(32, 146, 140)">wantin</text>
+<text transform="translate(161,168)" font-size="5" style="fill:rgb(92, 200, 99)">hoohoohoo</text>
+<text transform="translate(309,173)" font-size="5" style="fill:rgb(35, 138, 141)">le</text>
+<text transform="translate(253,18)" font-size="5" style="fill:rgb(129, 211, 77)">ooohahah</text>
+<text transform="translate(93,95)" font-size="5" style="fill:rgb(46, 110, 142)">mmmmy</text>
+<text transform="translate(312,79)" font-size="5" style="fill:rgb(40, 174, 128)">uhuh</text>
+<text transform="translate(357,142)" font-size="5" style="fill:rgb(56, 185, 119)">waitin</text>
+<text transform="translate(337,81)" font-size="5" style="fill:rgb(46, 109, 142)">hed</text>
+<text transform="translate(122,5)" font-size="5" style="fill:rgb(34, 140, 141)">drinkin</text>
+<text transform="translate(195,110) rotate(-90)" font-size="5" style="fill:rgb(37, 133, 142)">searchin</text>
+<text transform="translate(17,87)" font-size="5" style="fill:rgb(70, 11, 94)">givin</text>
+<text transform="translate(349,180)" font-size="5" style="fill:rgb(105, 205, 91)">hmmmmm</text>
+<text transform="translate(319,130) rotate(-90)" font-size="5" style="fill:rgb(38, 130, 142)">dixieland</text>
+<text transform="translate(278,166)" font-size="5" style="fill:rgb(34, 141, 141)">ahha</text>
+<text transform="translate(57,117) rotate(-90)" font-size="5" style="fill:rgb(82, 197, 105)">kirby</text>
+<text transform="translate(14,28)" font-size="5" style="fill:rgb(42, 119, 142)">cest</text>
+<text transform="translate(273,197)" font-size="5" style="fill:rgb(34, 139, 141)">venus</text>
+<text transform="translate(211,196) rotate(-90)" font-size="5" style="fill:rgb(117, 208, 84)">mississippi</text>
+<text transform="translate(251,45)" font-size="5" style="fill:rgb(213, 226, 26)">n</text>
+<text transform="translate(72,6)" font-size="5" style="fill:rgb(137, 213, 72)">indian</text>
+<text transform="translate(88,123)" font-size="5" style="fill:rgb(38, 129, 142)">maggie</text>
+<text transform="translate(274,185)" font-size="5" style="fill:rgb(49, 103, 142)">werent</text>
+<text transform="translate(391,39) rotate(-90)" font-size="5" style="fill:rgb(52, 182, 121)">susie</text>
+<text transform="translate(230,197) rotate(-90)" font-size="5" style="fill:rgb(94, 201, 98)">friday</text>
+<text transform="translate(126,47)" font-size="5" style="fill:rgb(192, 223, 37)">baddest</text>
+<text transform="translate(278,5)" font-size="5" style="fill:rgb(122, 209, 81)">badder</text>
+<text transform="translate(96,134)" font-size="5" style="fill:rgb(47, 107, 142)">kong</text>
+<text transform="translate(277,102) rotate(-90)" font-size="5" style="fill:rgb(71, 13, 96)">loveydovey</text>
+<text transform="translate(380,78)" font-size="5" style="fill:rgb(64, 189, 114)">walkin</text>
+<text transform="translate(305,18)" font-size="5" style="fill:rgb(61, 188, 116)">nanana</text>
+<text transform="translate(52,154)" font-size="5" style="fill:rgb(31, 150, 139)">mmh</text>
+<text transform="translate(300,157)" font-size="5" style="fill:rgb(72, 32, 113)">kung</text>
+<text transform="translate(81,41)" font-size="5" style="fill:rgb(39, 128, 142)">fu</text>
+<text transform="translate(397,25) rotate(-90)" font-size="5" style="fill:rgb(38, 129, 142)">doronron</text>
 </svg>
