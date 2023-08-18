@@ -3,7 +3,7 @@ from lyricsgenius import Genius
 import pickle
 
 # Initialize Genius API
-genius = Genius('WBgzC_YIU4dw4Rqj-QJGlrOMsDeU2w3k_oEjLx-3gDi2ngzUkbYUhAcOWaq7TVmB')
+genius = Genius('<insert your secret key>')
 
 outfile = open('lyrics_file.txt', 'w')
 
